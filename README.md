@@ -6,4 +6,4 @@ For the final project i have submitted:
   Requirement Specification Report,
   Design Documentation,
   Implementation of the code in Java Programming language,
-  Testing Report,
+  Testing Report.
